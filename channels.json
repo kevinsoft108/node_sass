@@ -1,42 +1,6 @@
-{ 
-    "_id" : ObjectId("624695bf23dfce1cb4000b3a"), 
-    "name" : "Google ads", 
-    "logo" : "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png", 
-    "created_at" : Timestamp(1648793023, 1), 
-    "updated_at" : Timestamp(1648793023, 2)
-}
-{ 
-    "_id" : ObjectId("624695bf23dfce1cb4000b3b"), 
-    "name" : "Meta ads", 
-    "logo" : "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png", 
-    "created_at" : Timestamp(1648793023, 3), 
-    "updated_at" : Timestamp(1648793023, 4)
-}
-{ 
-    "_id" : ObjectId("624695bf23dfce1cb4000b3c"), 
-    "name" : "Bing ads", 
-    "logo" : "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png", 
-    "created_at" : Timestamp(1648793023, 5), 
-    "updated_at" : Timestamp(1648793023, 6)
-}
-{ 
-    "_id" : ObjectId("624695bf23dfce1cb4000b3d"), 
-    "name" : "LinkedIn Ads", 
-    "logo" : "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png", 
-    "created_at" : Timestamp(1648793023, 7), 
-    "updated_at" : Timestamp(1648793023, 8)
-}
-{ 
-    "_id" : ObjectId("624695bf23dfce1cb4000b3e"), 
-    "name" : "Native", 
-    "logo" : "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png", 
-    "created_at" : Timestamp(1648793023, 9), 
-    "updated_at" : Timestamp(1648793023, 10)
-}
-{ 
-    "_id" : ObjectId("624695bf23dfce1cb4000b3f"), 
-    "name" : "TV", 
-    "logo" : "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png", 
-    "created_at" : Timestamp(1648793023, 11), 
-    "updated_at" : Timestamp(1648793023, 12)
-}
+{ "_id" : { "$oid" : "6246be9e19121c2d2884c8a2" }, "name" : "Google ads", "createdAt" : { "$date" : "2022-04-01T08:58:06.239+0000" }, "updatedAt" : { "$date" : "2022-04-01T08:58:06.239+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246be9e19121c2d2884c8a4" }, "name" : "Meta ads", "createdAt" : { "$date" : "2022-04-01T08:58:06.252+0000" }, "updatedAt" : { "$date" : "2022-04-01T08:58:06.252+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246be9e19121c2d2884c8a6" }, "name" : "Bing ads", "createdAt" : { "$date" : "2022-04-01T08:58:06.266+0000" }, "updatedAt" : { "$date" : "2022-04-01T08:58:06.266+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246be9e19121c2d2884c8a8" }, "name" : "LinkedIn Ads", "createdAt" : { "$date" : "2022-04-01T08:58:06.269+0000" }, "updatedAt" : { "$date" : "2022-04-01T08:58:06.269+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246be9e19121c2d2884c8aa" }, "name" : "Native", "createdAt" : { "$date" : "2022-04-01T08:58:06.271+0000" }, "updatedAt" : { "$date" : "2022-04-01T08:58:06.271+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246be9e19121c2d2884c8ac" }, "name" : "TV", "createdAt" : { "$date" : "2022-04-01T08:58:06.275+0000" }, "updatedAt" : { "$date" : "2022-04-01T08:58:06.275+0000" }, "__v" : 0 }

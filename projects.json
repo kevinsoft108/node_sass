@@ -1,48 +1,6 @@
-{ 
-    "_id" : ObjectId("62469a4d23dfce1cb4000b43"), 
-    "channels" : [
-        DBRef("channels", ObjectId("624695bf23dfce1cb4000b3a")), 
-        DBRef("channels", ObjectId("624695bf23dfce1cb4000b3c"))
-    ], 
-    "project_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
-    "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
-    "urgency" : 99.0, 
-    "status" : "Done", 
-    "budget" : 3000.0, 
-    "title" : "Ruby on Rails", 
-    "description" : "Ispirem lorem...", 
-    "agency" : DBRef("agencies", ObjectId("6246924f23dfce1cb4000b35")), 
-    "client" : DBRef("users", ObjectId("624694a623dfce1cb4000b38")), 
-    "users" : [
-        DBRef("users", ObjectId("624694a623dfce1cb4000b39")), 
-        DBRef("users", ObjectId("6246969d23dfce1cb4000b40"))
-    ], 
-    "estimated_timeframe" : ISODate("2022-04-01T06:23:09.145+0000"), 
-    "assigne" : "", 
-    "created_at" : Timestamp(1648794189, 1), 
-    "updated_at" : Timestamp(1648794189, 2)
-}
-{ 
-    "_id" : ObjectId("62469a4d23dfce1cb4000b44"), 
-    "channels" : [
-        DBRef("channels", ObjectId("624695bf23dfce1cb4000b3f"))
-    ], 
-    "project_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
-    "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
-    "urgency" : 99.0, 
-    "status" : "In progress", 
-    "budget" : 5000.0, 
-    "title" : "Node+React", 
-    "description" : "Ispirem lorem...", 
-    "agency" : {
-
-    }, 
-    "client" : DBRef("users", ObjectId("624694a623dfce1cb4000b39")), 
-    "users" : [
-        DBRef("users", ObjectId("6246969d23dfce1cb4000b40"))
-    ], 
-    "estimated_timeframe" : ISODate("2022-04-01T06:23:09.145+0000"), 
-    "assigne" : "", 
-    "created_at" : Timestamp(1648794189, 3), 
-    "updated_at" : Timestamp(1648794189, 4)
-}
+{ "_id" : { "$oid" : "6246c9d600b6f2389080c891" }, "channels" : [ { "$oid" : "6246be9e19121c2d2884c8aa" } ], "users" : [ { "$oid" : "6246c35ac492ef15c857a7f3" } ], "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "urgency" : "99", "status" : "Done", "budget" : 3000, "title" : "Ruby on Rails", "description" : "Ispirem lorem...", "estimated_timeframe" : "Fri Apr 01 2022 16:45:58 GMT+0700 (Indochina Time)", "assigne" : "", "agency" : { "$oid" : "6246be23541884344cdcae41" }, "client" : { "$oid" : "6246c359c492ef15c857a7db" }, "createdAt" : { "$date" : "2022-04-01T09:45:58.320+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:45:58.320+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246c9d600b6f2389080c899" }, "channels" : [ { "$oid" : "6246be9e19121c2d2884c8a6" } ], "users" : [ { "$oid" : "6246c35ac492ef15c857a7e1" } ], "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "urgency" : "99", "status" : "Done", "budget" : 3000, "title" : "Ruby on Rails", "description" : "Ispirem lorem...", "estimated_timeframe" : "Fri Apr 01 2022 16:45:58 GMT+0700 (Indochina Time)", "assigne" : "", "client" : { "$oid" : "6246c35ac492ef15c857a7f3" }, "createdAt" : { "$date" : "2022-04-01T09:45:58.388+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:45:58.388+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246c9d600b6f2389080c8a0" }, "channels" : [ { "$oid" : "6246be9e19121c2d2884c8a2" } ], "users" : [ { "$oid" : "6246c35ac492ef15c857a7e7" } ], "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "urgency" : "99", "status" : "Done", "budget" : 3000, "title" : "Ruby on Rails", "description" : "Ispirem lorem...", "estimated_timeframe" : "Fri Apr 01 2022 16:45:58 GMT+0700 (Indochina Time)", "assigne" : "", "agency" : { "$oid" : "6246be23541884344cdcae41" }, "client" : { "$oid" : "6246c35ac492ef15c857a7ed" }, "createdAt" : { "$date" : "2022-04-01T09:45:58.445+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:45:58.445+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246c9d600b6f2389080c8a8" }, "channels" : [ { "$oid" : "6246be9e19121c2d2884c8a4" } ], "users" : [ { "$oid" : "6246c35ac492ef15c857a7e1" } ], "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "urgency" : "99", "status" : "Done", "budget" : 3000, "title" : "Ruby on Rails", "description" : "Ispirem lorem...", "estimated_timeframe" : "Fri Apr 01 2022 16:45:58 GMT+0700 (Indochina Time)", "assigne" : "", "agency" : { "$oid" : "6246be23541884344cdcae3f" }, "client" : { "$oid" : "6246c35ac492ef15c857a7e7" }, "createdAt" : { "$date" : "2022-04-01T09:45:58.506+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:45:58.506+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246c9d600b6f2389080c8b0" }, "channels" : [ { "$oid" : "6246be9e19121c2d2884c8a6" } ], "users" : [ { "$oid" : "6246c35ac492ef15c857a7f3" } ], "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "urgency" : "99", "status" : "Done", "budget" : 3000, "title" : "Ruby on Rails", "description" : "Ispirem lorem...", "estimated_timeframe" : "Fri Apr 01 2022 16:45:58 GMT+0700 (Indochina Time)", "assigne" : "", "client" : { "$oid" : "6246c35ac492ef15c857a7f3" }, "createdAt" : { "$date" : "2022-04-01T09:45:58.564+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:45:58.564+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246c9d600b6f2389080c8b7" }, "channels" : [ { "$oid" : "6246be9e19121c2d2884c8a8" } ], "users" : [ { "$oid" : "6246c35ac492ef15c857a7ed" } ], "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "urgency" : "99", "status" : "Done", "budget" : 3000, "title" : "Ruby on Rails", "description" : "Ispirem lorem...", "estimated_timeframe" : "Fri Apr 01 2022 16:45:58 GMT+0700 (Indochina Time)", "assigne" : "", "agency" : { "$oid" : "6246be23541884344cdcae3f" }, "client" : { "$oid" : "6246c359c492ef15c857a7db" }, "createdAt" : { "$date" : "2022-04-01T09:45:58.610+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:45:58.610+0000" }, "__v" : 0 }

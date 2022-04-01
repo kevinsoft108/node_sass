@@ -1,37 +1,6 @@
-{ 
-    "_id" : ObjectId("62469cad23dfce1cb4000b45"), 
-    "project" : DBRef("projects", ObjectId("62469a4d23dfce1cb4000b43")), 
-    "label" : "Creative", 
-    "comment" : "A task can have comments", 
-    "files" : [
-        "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
-        "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"
-    ], 
-    "status" : "Pending", 
-    "created_at" : Timestamp(1648794797, 1), 
-    "updated_at" : Timestamp(1648794797, 2)
-}
-{ 
-    "_id" : ObjectId("62469cad23dfce1cb4000b46"), 
-    "project" : DBRef("projects", ObjectId("62469a4d23dfce1cb4000b43")), 
-    "label" : "AdOps", 
-    "comment" : "A task can have comments", 
-    "files" : [
-        "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"
-    ], 
-    "status" : "In Progress", 
-    "created_at" : Timestamp(1648794797, 3), 
-    "updated_at" : Timestamp(1648794797, 4)
-}
-{ 
-    "_id" : ObjectId("62469cad23dfce1cb4000b47"), 
-    "project" : DBRef("projects", ObjectId("62469a4d23dfce1cb4000b43")), 
-    "label" : "Planning", 
-    "comment" : "A task can have comments", 
-    "files" : [
-
-    ], 
-    "status" : "Done", 
-    "created_at" : Timestamp(1648794797, 5), 
-    "updated_at" : Timestamp(1648794797, 6)
-}
+{ "_id" : { "$oid" : "6246cc33d2b28838ac95b100" }, "files" : [ "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" ], "label" : "Creative", "comment" : "A task can have comments", "status" : "Strategy", "project" : { "$oid" : "6246c9d600b6f2389080c8a0" }, "createdAt" : { "$date" : "2022-04-01T09:56:03.335+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:56:03.335+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246cc33d2b28838ac95b103" }, "files" : [ "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" ], "label" : "AdOps", "comment" : "A task can have comments", "status" : "Design", "project" : { "$oid" : "6246c9d600b6f2389080c891" }, "createdAt" : { "$date" : "2022-04-01T09:56:03.343+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:56:03.343+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246cc33d2b28838ac95b106" }, "files" : [ "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" ], "label" : "Content", "comment" : "A task can have comments", "status" : "Planning", "project" : { "$oid" : "6246c9d600b6f2389080c8b0" }, "createdAt" : { "$date" : "2022-04-01T09:56:03.351+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:56:03.351+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246cc33d2b28838ac95b109" }, "files" : [ "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" ], "label" : "Planning", "comment" : "A task can have comments", "status" : "Content", "project" : { "$oid" : "6246c9d600b6f2389080c8a0" }, "createdAt" : { "$date" : "2022-04-01T09:56:03.358+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:56:03.358+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246cc33d2b28838ac95b10c" }, "files" : [ "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" ], "label" : "Design", "comment" : "A task can have comments", "status" : "AdOps", "project" : { "$oid" : "6246c9d600b6f2389080c8b0" }, "createdAt" : { "$date" : "2022-04-01T09:56:03.361+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:56:03.361+0000" }, "__v" : 0 }
+{ "_id" : { "$oid" : "6246cc33d2b28838ac95b10f" }, "files" : [ "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" ], "label" : "Strategy", "comment" : "A task can have comments", "status" : "Creative", "project" : { "$oid" : "6246c9d600b6f2389080c8a0" }, "createdAt" : { "$date" : "2022-04-01T09:56:03.369+0000" }, "updatedAt" : { "$date" : "2022-04-01T09:56:03.369+0000" }, "__v" : 0 }
