@@ -1,0 +1,61 @@
+{ 
+    "_id" : ObjectId("624694a623dfce1cb4000b38"), 
+    "first_name" : "Andrii", 
+    "last_name" : "P.", 
+    "roles" : [
+        DBRef("roles", ObjectId("62468e6a23dfce1cb4000b32")), 
+        DBRef("roles", ObjectId("62468e6a23dfce1cb4000b34"))
+    ], 
+    "profile_picture" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
+    "agency" : DBRef("agencies", ObjectId("6246924f23dfce1cb4000b35")), 
+    "perferred_communication" : NumberInt(0), 
+    "marketing_permission" : "", 
+    "email" : "test@test.com", 
+    "password" : "62468e6a23dfce1cb4000b34", 
+    "is_email" : "", 
+    "is_notification" : "", 
+    "is_active" : "", 
+    "time_zone" : "UTC+02:00", 
+    "created_at" : Timestamp(1648792742, 1), 
+    "updated_at" : Timestamp(1648792742, 2)
+}
+{ 
+    "_id" : ObjectId("624694a623dfce1cb4000b39"), 
+    "first_name" : "Yuri", 
+    "last_name" : "A.", 
+    "roles" : [
+        DBRef("roles", ObjectId("62468e6a23dfce1cb4000b33"))
+    ], 
+    "profile_picture" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
+    "agency" : DBRef("agencies", ObjectId("6246924f23dfce1cb4000b36")), 
+    "perferred_communication" : NumberInt(1), 
+    "marketing_permission" : "", 
+    "email" : "stms@yahoo.com", 
+    "password" : "62468e6a23dfce1cb4000b34", 
+    "is_email" : "", 
+    "is_notification" : "", 
+    "is_active" : "", 
+    "time_zone" : "UTC+02:00", 
+    "created_at" : Timestamp(1648792742, 3), 
+    "updated_at" : Timestamp(1648792742, 4)
+}
+{ 
+    "_id" : ObjectId("6246969d23dfce1cb4000b40"), 
+    "first_name" : "Anton", 
+    "last_name" : "M.", 
+    "roles" : [
+        DBRef("roles", ObjectId("62468e6a23dfce1cb4000b34"))
+    ], 
+    "profile_picture" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
+    "agency" : "", 
+    "perferred_communication" : NumberInt(0), 
+    "marketing_permission" : "", 
+    "email" : "anton@yandex.com", 
+    "password" : "62468e6a23dfce1cb4000b34", 
+    "is_email" : "", 
+    "is_notification" : "", 
+    "is_active" : "", 
+    "time_zone" : "UTC+02:00", 
+    "created_at" : Timestamp(1648793245, 1), 
+    "updated_at" : Timestamp(1648793245, 2)
+}

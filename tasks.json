@@ -1,0 +1,37 @@
+{ 
+    "_id" : ObjectId("62469cad23dfce1cb4000b45"), 
+    "project" : DBRef("projects", ObjectId("62469a4d23dfce1cb4000b43")), 
+    "label" : "Creative", 
+    "comment" : "A task can have comments", 
+    "files" : [
+        "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
+        "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"
+    ], 
+    "status" : "Pending", 
+    "created_at" : Timestamp(1648794797, 1), 
+    "updated_at" : Timestamp(1648794797, 2)
+}
+{ 
+    "_id" : ObjectId("62469cad23dfce1cb4000b46"), 
+    "project" : DBRef("projects", ObjectId("62469a4d23dfce1cb4000b43")), 
+    "label" : "AdOps", 
+    "comment" : "A task can have comments", 
+    "files" : [
+        "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"
+    ], 
+    "status" : "In Progress", 
+    "created_at" : Timestamp(1648794797, 3), 
+    "updated_at" : Timestamp(1648794797, 4)
+}
+{ 
+    "_id" : ObjectId("62469cad23dfce1cb4000b47"), 
+    "project" : DBRef("projects", ObjectId("62469a4d23dfce1cb4000b43")), 
+    "label" : "Planning", 
+    "comment" : "A task can have comments", 
+    "files" : [
+
+    ], 
+    "status" : "Done", 
+    "created_at" : Timestamp(1648794797, 5), 
+    "updated_at" : Timestamp(1648794797, 6)
+}

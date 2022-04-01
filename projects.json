@@ -1,0 +1,48 @@
+{ 
+    "_id" : ObjectId("62469a4d23dfce1cb4000b43"), 
+    "channels" : [
+        DBRef("channels", ObjectId("624695bf23dfce1cb4000b3a")), 
+        DBRef("channels", ObjectId("624695bf23dfce1cb4000b3c"))
+    ], 
+    "project_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
+    "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
+    "urgency" : 99.0, 
+    "status" : "Done", 
+    "budget" : 3000.0, 
+    "title" : "Ruby on Rails", 
+    "description" : "Ispirem lorem...", 
+    "agency" : DBRef("agencies", ObjectId("6246924f23dfce1cb4000b35")), 
+    "client" : DBRef("users", ObjectId("624694a623dfce1cb4000b38")), 
+    "users" : [
+        DBRef("users", ObjectId("624694a623dfce1cb4000b39")), 
+        DBRef("users", ObjectId("6246969d23dfce1cb4000b40"))
+    ], 
+    "estimated_timeframe" : ISODate("2022-04-01T06:23:09.145+0000"), 
+    "assigne" : "", 
+    "created_at" : Timestamp(1648794189, 1), 
+    "updated_at" : Timestamp(1648794189, 2)
+}
+{ 
+    "_id" : ObjectId("62469a4d23dfce1cb4000b44"), 
+    "channels" : [
+        DBRef("channels", ObjectId("624695bf23dfce1cb4000b3f"))
+    ], 
+    "project_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
+    "channel_logo" : "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress", 
+    "urgency" : 99.0, 
+    "status" : "In progress", 
+    "budget" : 5000.0, 
+    "title" : "Node+React", 
+    "description" : "Ispirem lorem...", 
+    "agency" : {
+
+    }, 
+    "client" : DBRef("users", ObjectId("624694a623dfce1cb4000b39")), 
+    "users" : [
+        DBRef("users", ObjectId("6246969d23dfce1cb4000b40"))
+    ], 
+    "estimated_timeframe" : ISODate("2022-04-01T06:23:09.145+0000"), 
+    "assigne" : "", 
+    "created_at" : Timestamp(1648794189, 3), 
+    "updated_at" : Timestamp(1648794189, 4)
+}

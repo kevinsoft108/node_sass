@@ -1,0 +1,21 @@
+{ 
+    "_id" : ObjectId("62468e6a23dfce1cb4000b32"), 
+    "name" : "Super admin", 
+    "description" : "Super admin", 
+    "created_at" : Timestamp(1648791146, 1), 
+    "updated_at" : Timestamp(1648791146, 2)
+}
+{ 
+    "_id" : ObjectId("62468e6a23dfce1cb4000b33"), 
+    "name" : "Admin", 
+    "description" : "Admin", 
+    "created_at" : Timestamp(1648791146, 3), 
+    "updated_at" : Timestamp(1648791146, 4)
+}
+{ 
+    "_id" : ObjectId("62468e6a23dfce1cb4000b34"), 
+    "name" : "Regular user", 
+    "description" : "Regular user", 
+    "created_at" : Timestamp(1648791146, 5), 
+    "updated_at" : Timestamp(1648791146, 6)
+}

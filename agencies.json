@@ -1,0 +1,18 @@
+{ 
+    "_id" : ObjectId("6246924f23dfce1cb4000b35"), 
+    "name" : "Google", 
+    "logo" : "https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png", 
+    "business_name" : "Google", 
+    "address" : "US", 
+    "business_phone" : "(281)388-0388", 
+    "tax_id" : ""
+}
+{ 
+    "_id" : ObjectId("6246924f23dfce1cb4000b36"), 
+    "name" : "Yahoo", 
+    "logo" : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAAAiCAMAAABSpLb8AAAAdVBMVEX///9gAdJYANC2mOlSAM/QwfCWauCVb9+FT9t2NtivkeZ4PthsHdb+/P/49P3x6vumg+Ti1vZ+Rtm9pOuVZ+Do3vje0fXYyPO4nenEre13OtjOu/D18PxuJtZ1L9idduKMW92kfOSRYd+pieWHVdzJs+5nEdSPmWxXAAADS0lEQVRIib1XbbuyIAwGWmnHNDU1zZfe/f8/8QE2EM2eTtfpal+Cse0e82YQY7+WKvWlZL93mJE8UDH8oHjDZwGcc7H+E+5ZcBWEv+Oz0D5/wg1V6hL358u4lQ7BYftl3DVu9/SW099xCywz7L+Mu8Iyb17ZhWE4ixtG4f8MnykjYlWpJudsJeViTPQ0W8nRNm4BxG3PYqW6FBa38AWIoLLhtteDAOB+5cLUJy69uzhxdDtiVaMmJQgpUFMMnF21XicHsa9VS8JNF7gAN4oW41xa8togFBurzIZsWlSt9KTB8Cku/QjieYw10YdcqwwuzaXmrIsZWEOpijFK5ehEbw7NnlhFvcozUErQ9MbujucEd1Apl3SkhIUDYIFpxxc07SiNRFthC1kC8jw00WzUGVzFj3KSH+SyBFM7DwtLrNqZsne4rIYn7dJTuTn0pw6muIK3FOHCQooMh0Fn7KA/CLc9GffI4N5pkyYluQ9igOJsMcEV8kLa48hnNTpcZKwcfSBiG/SQ8cLYqSWleLQ0C22mJcZrCL9yvoPFBZVvpocHul4Cp46w3+Jv4ZBHkbYmVjkHKxZUgJY2hP1M0HIwwu0H2gf4XcQd7XQ3EjtkFbEnt5GytpPS+gMswwzFLjGZomvPnHgWd+Pipu4WtFIsNDcFPQ/w4gM2LzcMczaB96P9pvwprnYU1C68/+43KcuH64AOHJZ7Zwtwd1zncY/288nuK2a+rzXwZCMEf9rFiYL0mc1cLFWePX+OS3w+Kj6vEbcxwRTwwvD5BwerCW5pjzryPKaD116C6fkd4VKLECJY0+jE2NU4B6bH5nSI8DA40gx9KRmYZkr/HJc2NIhyDyc6ucschuWRrAwA8WEa7xkuO4z781WtTpt7aPfx8LBKzIK5VrNn99EEN+ocYPDos7n3EVdY+BlEx6ZyICvLuDPdoHC096++m7Fv6CE+eY5kKL+yfQssub1/Tw3uS6hJ/oB7x4RipwSefEVAV7OrJyVL2H2lBpp3OCTjPO5BWZYuaapUeXPP/DHIb/Lt8ghrmu94ZZtHj5ZzEuXbxwfWNm9ee2JV0t/BfE7oLqxfW35W6LnybVhq39dv4x7x+frW36VPSLlTUr02/Jj8A4ZTKVZeBfAOAAAAAElFTkSuQmCC", 
+    "business_name" : "Yahoo", 
+    "address" : "US", 
+    "business_phone" : "(936)825-2081", 
+    "tax_id" : ""
+}
